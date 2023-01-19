@@ -1,0 +1,20 @@
+# Redirects from what the browser requests to what we serve
+
+/en/about/ /about
+/en/about /about
+/en/business-propositions/ /projects
+/en/business-propositions /projects
+/en/business-design-built-environment/ /about
+/en/business-design-built-environment /about
+/en/innovation-by-businessdesign/ /approach
+/en/innovation-by-businessdesign /approach
+/innovation-by-businessdesign/ /approach
+/innovation-by-businessdesign /approach
+/over/ /about
+/over /about
+/klanten/ /about
+/klanten /about
+/projecten/ /projects
+/projecten /projects
+/en/ /
+/en /
