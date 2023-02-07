@@ -1,5 +1,4 @@
-# TODO
+# Todo
 
-- Build Hook Prismic
-- Preview?
-# bda
+- Domeinen overzetten
+- Domeinen redirecten
