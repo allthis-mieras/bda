@@ -1,7 +1,7 @@
 {
   "name": "bda",
   "description": "Business Design Agency website",
-  "author": "Vormen & Waerden",
+  "author": "AllThis",
   "dependencies": {
     "@chakra-ui/icons": "^1.0.13",
     "@chakra-ui/react": "^1.6.4",

@@ -18,3 +18,11 @@
 /projecten /projects
 /en/ /
 /en /
+http://www.markbode.nl/* https://www.businessdesignagency.nl/:splat 301!
+https://www.markbode.nl/* https://www.businessdesignagency.nl/:splat 301!
+http://markbode.nl/* https://www.businessdesignagency.nl/:splat 301!
+https://markbode.nl/* https://www.businessdesignagency.nl/:splat 301!
+http://www.creatiefondernemen.com/* https://www.businessdesignagency.nl/:splat 301!
+https://www.creatiefondernemen.com/* https://www.businessdesignagency.nl/:splat 301!
+http://creatiefondernemen.com/* https://www.businessdesignagency.nl/:splat 301!
+https://creatiefondernemen.com/* https://www.businessdesignagency.nl/:splat 301!
